@@ -98,6 +98,10 @@
     gap: 22px;
     /* display: none; */
   }
+
+ .navList li :hover{
+    color: rgb(255, 105, 50);
+  }
   
   .navList li{
     list-style: none;
